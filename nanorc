@@ -1,0 +1,7 @@
+set titlecolor italic,black,lightcyan
+set statuscolor italic,black,lightcyan
+set keycolor black,lightcyan
+set numbercolor black,lightcyan
+set linenumbers
+set tabsize 4
+set autoindent
